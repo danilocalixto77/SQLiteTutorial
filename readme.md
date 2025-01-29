@@ -28,7 +28,7 @@ Após download dos arquivos arquivo de acordo com o seu sistema operacional.
 
 **Download do DB Browser for SQLite**
 
-[Site SQLite](https://sqlitebrowser.org/)
+[Site DB Browser for SQLite](https://sqlitebrowser.org/)
 
 
 
