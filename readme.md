@@ -30,6 +30,9 @@ Após download dos arquivos arquivo de acordo com o seu sistema operacional.
 
 [Site DB Browser for SQLite](https://sqlitebrowser.org/)
 
+Após download dos arquivos arquivo de acordo com o seu sistema operacional. 
+
+Após baixar o arquivo .msi prossiga a instalação do DB Browser for SQLite, avançando confirmando as opções até finalizar.
 
 
 
